@@ -3,6 +3,7 @@ body{
     margin: 0;
     padding: 0;
 }
+
 header {
     Background-color: #7f04f3;
     color: #348b02;
@@ -25,12 +26,13 @@ main{
 }
 
 article{
-   c
+   
     display: flex;
     margin-bottom: 60px; 
 }
+
 img{
-    body {
+    
     font-family: Arial, Helvetica, sans-serif; /* Fonte universal herdada por todo o site */
     margin: 0;                                 /* Remove margens padrão do navegador */
     padding: 0;
@@ -77,9 +79,7 @@ img{
 
 .texto-curto {
     max-width: 65ch; /* Limita a linha a cerca de 45 caracteres */
-}
-
     display:block;
     width: 250px;
-    margin: 
+    margin: 0 auto;
 }
